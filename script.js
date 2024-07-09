@@ -1,4 +1,3 @@
-// js/script.js
 document.getElementById('fearful-symmetry').onclick = function() {
     window.location.href = 'https://www.fearfulsymmetry.com';
 };
